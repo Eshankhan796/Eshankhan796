@@ -1,2 +1,6 @@
 <h1 align="center">Welcome to my GitHub</h1>
-[![facebook](/Resources/linux_logo_.svg)](https://Facebook.com)
+
+<a harf="https://github.com">
+
+<img src="/assets/images/github_logo.svg">
+</a>
