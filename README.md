@@ -24,6 +24,8 @@
 )
 ![GNU/linux](https://img.shields.io/badge/GNU%2FLinux-17202A?style=for-the-badge&logo=Linux
 )
+![Supabase](https://img.shields.io/badge/Supabase-17202A?style=for-the-badge&logo=Supabase
+)
 
 ## Myself
 Hi, I'm Eshan Khan, and I'm from Bangladesh. I'm a teen. I'm a student. I'm a hobby programmer. I love to code. I do web app building, web development, hacking, photo editing, video editing, graphic design, etc. I'm a self-taught programmer. You know self-taught programmers are smart. I learned programming and designing by myself, from YouTube, and from developers like you. I enjoy coding. I want to destroy. I mean, I want to build my career in programming. I also like cybersecurity. I want to build my own technology company in the future. I'm still learning. There is a saying, "no pain, no gain." I have to learn it, even if it's hard for me.
@@ -31,8 +33,18 @@ Hi, I'm Eshan Khan, and I'm from Bangladesh. I'm a teen. I'm a student. I'm a ho
 ## My works
 I have done some programming work, and I'm still doing it. I would like to share it with you. Open source and contributions are a must for future tech.
 
-### &nbsp;&nbsp;&nbsp;&nbsp; My work with others:
-
+### My work with others:
+| Title | From | Platform | Status | 
+|-------------|------|----------|--------|
+| Telegram bot with <br>openai | 07rishabh | replit | In progress |
+### personal projects:
+| Title | Status | 
+|-------------|--------|
+| [SDK-Mdb](https://github.com/Eshankhan796/SDK-Mdb) | Complete |
+| [Weather](https://github.com/Eshankhan796/Weather) | Complete |
+| [Clock](https://github.com/Eshankhan796/Clock) | Complete |
+| To-do app | In progress |
+| fitness tracker | Pending |
 ## Education 
 
 I don't like studying much, but they will judge you by your academic knowledge and not by your real skills.
