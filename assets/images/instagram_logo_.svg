@@ -1,0 +1,82 @@
+<svg width="170" height="55" xmlns="http://www.w3.org/2000/svg" class="ionicon">
+ <title>Instagram logo</title>
+ <g id="Layer_1">
+  <title>Layer 1</title>
+  <path id="svg_1" d="m0,10c0,-5.43379 4.56621,-10 10,-10l150,0c5.43379,0 10,4.56621 10,10l0,35c0,5.43379 -4.56621,10 -10,10l-150,0c-5.43379,0 -10,-4.56621 -10,-10l0,-35z" opacity="undefined" stroke-width="0" stroke="#000" fill="#17202a"/>
+  <g stroke="null" id="svg_2">
+   <path fill="url(#svg_6)" stroke="null" d="m34.82877,12.55013a7.43509,7.62314 0 0 1 7.41285,7.60034l0,15.19905a7.43509,7.62314 0 0 1 -7.41285,7.60034l-14.82411,0a7.43509,7.62314 0 0 1 -7.41285,-7.60034l0,-15.19905a7.43509,7.62314 0 0 1 7.41285,-7.60034l14.82411,0m0,-3.03965l-14.82411,0c-5.70775,0 -10.37751,4.78787 -10.37751,10.63999l0,15.19905c0,5.85212 4.66976,10.63999 10.37751,10.63999l14.82411,0c5.70775,0 10.37751,-4.78787 10.37751,-10.63999l0,-15.19905c0,-5.85212 -4.66976,-10.63999 -10.37751,-10.63999z" id="svg_3"/>
+   <path fill="url(#svg_6)" stroke="null" d="m37.05247,20.15047a2.2237,2.27994 0 1 1 2.2237,-2.27994a2.21893,2.27505 0 0 1 -2.2237,2.27994zm-9.63575,1.51942a5.93012,6.08011 0 1 1 -5.93012,6.08011a5.93647,6.08662 0 0 1 5.93012,-6.08011m0,-3.03965a8.89479,9.11976 0 1 0 8.89479,9.11976a8.89479,9.11976 0 0 0 -8.89479,-9.11976z" id="svg_4"/>
+  </g>
+  <text transform="matrix(1 0 0 1 0 0)" xml:space="preserve" text-anchor="start" font-family="'Kufam'" font-size="24" id="svg_9" y="33.47505" x="49.26898" stroke-width="0" stroke="#000" fill="#f9fafe">Instagram</text>
+ </g>
+ <defs>
+  <linearGradient y2="1" x2="1" y1="0.01353" x1="0.13286" id="svg_6">
+   <stop offset="0" stop-opacity="0.99219" stop-color="#405de6"/>
+   <stop offset="0.08202" stop-opacity="0.99219" stop-color="#5b51d8"/>
+   <stop offset="0.18358" stop-opacity="0.99219" stop-color="#833ab4"/>
+   <stop offset="0.29686" stop-opacity="0.98828" stop-color="#c13584"/>
+   <stop offset="0.39452" stop-opacity="0.98828" stop-color="#e1306c"/>
+   <stop offset="0.49218" stop-opacity="0.99219" stop-color="#fd1d1d"/>
+   <stop offset="0.70311" stop-opacity="0.99219" stop-color="#f56040"/>
+   <stop offset="0.90624" stop-opacity="0.99609" stop-color="#fcaf45"/>
+   <stop stop-color="#777737" stop-opacity="0.99609" offset="1"/>
+   <stop offset="1" stop-opacity="0.99609" stop-color="#ffdc80"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0"/>
+   <stop stop-color="0" stop-opacity="0" offset="NaN"/>
+   <stop stop-color="0" stop-opacity="0" offset="NaN"/>
+   <stop stop-color="0" stop-opacity="0" offset="NaN"/>
+   <stop stop-color="0" stop-opacity="0" offset="NaN"/>
+   <stop stop-color="0" stop-opacity="0" offset="NaN"/>
+   <stop stop-color="0" stop-opacity="0" offset="NaN"/>
+   <stop stop-color="0" stop-opacity="0" offset="NaN"/>
+   <stop stop-color="0" stop-opacity="0" offset="NaN"/>
+   <stop stop-color="0" stop-opacity="0" offset="NaN"/>
+   <stop stop-color="0" stop-opacity="0" offset="NaN"/>
+   <stop stop-color="0" stop-opacity="0" offset="NaN"/>
+   <stop stop-color="0" stop-opacity="0" offset="NaN"/>
+   <stop stop-color="0" stop-opacity="0" offset="NaN"/>
+   <stop stop-color="0" stop-opacity="0" offset="NaN"/>
+   <stop stop-color="0" stop-opacity="0" offset="NaN"/>
+   <stop stop-color="0" stop-opacity="0" offset="NaN"/>
+  </linearGradient>
+ </defs>
+</svg>
