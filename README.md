@@ -17,7 +17,7 @@ Hi, I'm Eshan Khan, and I'm from Bangladesh. I'm a teen. I'm a student. I'm a ho
 ## My works
 I have done some programming work, and I'm still doing it. I would like to share it with you. Open source and contributions are a must for future tech.
 
-### &nbsp;&nbsp;&nbsp;&nbsp; Projects i worked on:
+### &nbsp;&nbsp;&nbsp;&nbsp; My work with others:
 
 ## Education 
 
