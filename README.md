@@ -45,6 +45,8 @@ I have done some programming work, and I'm still doing it. I would like to share
 | [Clock](https://github.com/Eshankhan796/Clock) | Complete |
 | To-do app | In progress |
 | fitness tracker | Pending |
+
+There are some more projects I'm embarrassed to include 😳 but you can find them in my GitHub account 
 ## Education 
 
 I don't like studying much, but they will judge you by your academic knowledge and not by your real skills.
@@ -55,3 +57,23 @@ I don't like studying much, but they will judge you by your academic knowledge a
 | JSC   | 2022 | Dhaka | 3.49|
 | SSC   | 2025 | Dhaka |  ~  |
 | HSC   | 2027 | Dhaka |  ~  |
+
+## Others
+#### Donate:
+Your donation will encourage me to build more fun projects 
+
+![Bitcoin](https://img.shields.io/badge/Bitcoin-172028?logo=Bitcoin
+):`bc1qnxc3edsr9urpjehqyhhqrc60ht5xf7wnwdrs42`
+
+![Tether](https://img.shields.io/badge/USDT-172028?logo=Tether
+):`0x79AE126c023d6Af6e1cb418b9c192e22Bbb79EcC`
+
+#### Want to hire me:
+Email: [eksd796@proton.me](mailto:eksd796@proton.me)
+
+Contact: +88017202×××××
+> Email me first to get the contract if you are serious
+
+
+
+## <center>That's all guys Thanks for visiting ❤️</center>
