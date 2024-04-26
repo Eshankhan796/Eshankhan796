@@ -7,6 +7,14 @@
 [![Instagram](https://img.shields.io/badge/Instagram-17202A?style=flat-square&logo=Instagram
 )](https://www.instagram.com/e_k.797)
 
+## Achievements
+### &nbsp;&nbsp;&nbsp;&nbsp;TryHackMe
+[<img src="https://assets.tryhackme.com/room-badges/147f6c8b909c18f1665edd4c921ad5f0.png">](https://tryhackme.com/EKSD/badges/first-4-rooms)
+
+[<img src="https://assets.tryhackme.com/room-badges/b24ff03e60ff36993e6d30a353d8a324.png">](https://tryhackme.com/EKSD/badges/terminaled)
+
+### &nbsp;&nbsp;&nbsp;&nbsp;HackTheBox
+coming soon....
 ## My Skills
 ![html](https://img.shields.io/badge/HTML-17202A?style=for-the-badge&logo=Html5
 )
@@ -38,13 +46,14 @@ I have done some programming work, and I'm still doing it. I would like to share
 |-------------|------|----------|--------|
 | Telegram bot with <br>openai | 07rishabh | replit | In progress |
 ### personal projects:
-| Title | Status | 
-|-------------|--------|
-| [SDK-Mdb](https://github.com/Eshankhan796/SDK-Mdb) | Complete |
-| [Weather](https://github.com/Eshankhan796/Weather) | Complete |
-| [Clock](https://github.com/Eshankhan796/Clock) | Complete |
-| To-do app | In progress |
-| fitness tracker | Pending |
+| Title | Status | Language |
+|-------------|--------|----------|
+| [SDK-Mdb](https://github.com/Eshankhan796/SDK-Mdb) | Complete | HTML, CSS,  JAVASCRIPT |
+| [Weather](https://github.com/Eshankhan796/Weather) | Complete | HTML, CSS, JAVASCRIPT |
+| [Clock](https://github.com/Eshankhan796/Clock) | Complete | HTML, CSS, JAVASCRIPT|
+| Telegram bot with coinmarketcap | In Progress | PYTHON |
+| To-do app |Pending | HTML, CSS,  JAVASCRIPT, NODEJS |
+| Expense tracker | Pending | HTML, CSS, JAVASCRIPT, NODEJS |
 
 There are some more projects I'm embarrassed to include 😳 but you can find them in my GitHub account 
 ## Education 
