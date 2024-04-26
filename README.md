@@ -51,7 +51,7 @@ I have done some programming work, and I'm still doing it. I would like to share
 | [SDK-Mdb](https://github.com/Eshankhan796/SDK-Mdb) | Complete | HTML, CSS,  JAVASCRIPT |
 | [Weather](https://github.com/Eshankhan796/Weather) | Complete | HTML, CSS, JAVASCRIPT |
 | [Clock](https://github.com/Eshankhan796/Clock) | Complete | HTML, CSS, JAVASCRIPT|
-| Telegram bot with coinmarketcap | In Progress | PYTHON |
+| Telegram bot with coinmarketcap API | In Progress | PYTHON |
 | To-do app |Pending | HTML, CSS,  JAVASCRIPT, NODEJS |
 | Expense tracker | Pending | HTML, CSS, JAVASCRIPT, NODEJS |
 
