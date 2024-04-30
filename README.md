@@ -13,6 +13,8 @@
 
 [<img src="https://assets.tryhackme.com/room-badges/b24ff03e60ff36993e6d30a353d8a324.png">](https://tryhackme.com/EKSD/badges/terminaled)
 
+
+[<img src="https://assets.tryhackme.com/room-badges/df86f37632f884286e0605ebfaf54f8d.png">](https://tryhackme.com/EKSD/badges/7-day-streak)
 ### &nbsp;&nbsp;&nbsp;&nbsp;HackTheBox
 coming soon....
 ## My Skills
